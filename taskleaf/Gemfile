@@ -20,6 +20,9 @@ gem 'uglifier', '>= 1.3.0'
 gem 'slim-rails'
 gem 'html2slim'
 
+# use auto link
+gem 'rails_autolink'
+
 # use Bootstrap
 gem 'bootstrap'
 
